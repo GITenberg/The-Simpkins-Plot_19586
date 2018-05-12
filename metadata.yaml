@@ -1,0 +1,33 @@
+_repo: The-Simpkins-Plot_19586
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Birmingham, George A.
+    aliases:
+    - Hannay, James O. (James Owen)
+    - Hannay, James Owen
+    - Birmingham, G. A. (George A.)
+    birthdate: 1865
+    deathdate: 1950
+    gutenberg_agent_id: '8765'
+    url: http://www.gutenberg.org/2009/agents/8765
+    wikipedia: http://en.wikipedia.org/wiki/George_A._Birmingham
+description: ''
+gutenberg_issued: '2006-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19586'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Humorous stories'
+- !lcsh 'Ireland -- Fiction'
+- !lcsh 'Clergy -- Fiction'
+title: The Simpkins Plot
+url: http://www.gutenberg.org/ebooks/19586
